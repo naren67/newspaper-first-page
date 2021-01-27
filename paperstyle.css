@@ -1,0 +1,161 @@
+
+.site{
+    text-align: left;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.since{
+    text-align: right;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.truth{
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+    
+   
+   
+}
+.newsdaily{
+    text-align: center;
+    font-size: 6.8rem;
+  
+   
+    
+}
+.text-1{
+    font-size: 22px;
+}
+.text-2{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.text-3{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.text-4{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.image-2{
+    margin-bottom: 10px;
+    margin-top: 23px;
+    padding:5px;
+   
+}
+.image-3{
+    margin-bottom: 10px;
+    margin-top: 23px;
+    padding:5px;
+   
+}
+.image-4{
+    margin-bottom: 10px;
+    margin-top: 23px;
+    padding:5px;
+}
+
+.imageholder{
+    
+    padding: 10px;
+  
+}
+  .height-1{
+      height: 490px;
+  
+    
+  }
+  .height-2{
+    height: 230px;
+}
+.height-3{
+    height: 230px;
+}
+.height-4{
+    height: 230px;
+}
+.height-5{
+    height: 230px;
+}
+.hed-1{
+    text-align: center;
+}
+.hed-2{
+    text-align: center;
+}
+.hed-3{
+    text-align: center;
+}
+.justline{
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+.redcoloured{
+    color: brown;
+    text-align: center;
+    font-size: 1rem;
+    
+   
+
+    
+}
+.bottom{
+    border-bottom: 2px solid black;
+}
+.lastone{
+        text-align: left;
+}
+.lasttwo{
+     text-align: right;
+}
+.topper{
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+.economylist{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.spacing{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.ender{
+    margin-bottom: 20px;
+    margin-top: 3px;
+}
+
+.pop1{
+    background: brown;
+    color: white;
+    position: absolute;
+    top: -23px;
+    left: 0px;
+}
+.pop2{
+    background: brown;
+    color: white;
+    position: absolute;
+    top: -12px;
+    
+}
+.pop3{
+    background: brown;
+    color: white;
+    position: absolute;
+    top: -12px;
+}
+.pop4{
+    background: brown;
+    color: white;
+    position: absolute;
+    top: -12px;
+}
